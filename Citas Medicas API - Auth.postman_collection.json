@@ -1,0 +1,27 @@
+{
+  "info": {
+    "_postman_id": "04a1667e-f7eb-4895-ae9a-45899a8c512d",
+    "name": "Citas Medicas API - Auth",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "57645744",
+    "_collection_link": "https://go.postman.co/collection/57645744-04a1667e-f7eb-4895-ae9a-45899a8c512d?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Login - Admin",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Me - Con token",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
