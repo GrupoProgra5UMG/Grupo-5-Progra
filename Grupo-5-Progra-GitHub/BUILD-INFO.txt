@@ -1,0 +1,6 @@
+Estado de revisión
+==================
+El proyecto original incluía clases compiladas previamente dentro de target/classes.
+El entorno de revisión actual no tenía Maven instalado, por lo que no fue posible ejecutar
+una compilación Maven limpia aquí. Se preparó el repositorio para que Maven genere target/
+y el .jar localmente mediante `mvn clean package`.
